@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/General Skills/01-lets-warm-up.md",
+                "file": "PICO CTF/General Skills 2/01-Based.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-lets-warm-up"
+              "title": "01-Based"
             }
           }
         ]
@@ -170,20 +170,31 @@
   },
   "active": "c8e4cb3ca1649f42",
   "lastOpenFiles": [
-    "PICO CTF/General Skills/02-2Warm.md",
-    "PICO CTF/General Skills/03-Warmed Up.md",
-    "PICO CTF/General Skills/04-Bases.md",
-    "PICO CTF/General Skills/05-First Grep.md",
-    "PICO CTF/General Skills/06-Obedient Cat.md",
-    "PICO CTF/General Skills/07-plumbing.md",
-    "PICO CTF/General Skills/08-Glitch Cat.md",
-    "PICO CTF/General Skills/09-what's a net cat.md",
-    "PICO CTF/General Skills/10-Nice netcat....md",
-    "PICO CTF/General Skills/01-lets-warm-up.md",
+    "PICO CTF/General Skills 2/02-strings it.md",
+    "PICO CTF/General Skills 2/03-Wave a flag.md",
+    "PICO CTF/General Skills 2/04-Static ain't always noise.md",
+    "PICO CTF/General Skills 2/05-useless.md",
+    "PICO CTF/General Skills 2/06-Tab, Tab, Attack.md",
+    "PICO CTF/General Skills 2/07-Magikarp Ground Mission.md",
+    "PICO CTF/General Skills 2/08-repetitions.md",
+    "PICO CTF/General Skills 2/09-Big zip.md",
+    "PICO CTF/General Skills 2/10-First Find.md",
+    "PICO CTF/General Skills 2/01-Based.md",
+    "PICO CTF/General Skills 1/05-First Grep.md",
+    "PICO CTF/General Skills 1/01-lets-warm-up.md",
+    "PICO CTF/General Skills 1/02-2Warm.md",
+    "PICO CTF/General Skills 1/04-Bases.md",
+    "PICO CTF/General Skills 1/03-Warmed Up.md",
+    "PICO CTF/General Skills 1/07-plumbing.md",
+    "PICO CTF/General Skills 1/10-Nice netcat....md",
+    "PICO CTF/General Skills 1/09-what's a net cat.md",
+    "PICO CTF/General Skills 1/06-Obedient Cat.md",
+    "PICO CTF/General Skills 1/08-Glitch Cat.md",
     "README.md",
-    "PICO CTF/General Skills",
+    "Bienvenido.md",
+    "PICO CTF/General Skills 2",
+    "PICO CTF/General Skills 1",
     "Sin nombre",
-    "PICO CTF",
-    "Bienvenido.md"
+    "PICO CTF"
   ]
 }
