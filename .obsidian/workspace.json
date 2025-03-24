@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/Tarea 1 - General Skills/09-binhexa.md",
+                "file": "PICO CTF/Actividad 8 - picoCTF Web 1/01-Insp3ct0r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-binhexa"
+              "title": "01-Insp3ct0r"
             }
           }
         ],
@@ -183,8 +183,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "73267fb1553d7429",
+  "active": "e7a7efb786a4826c",
   "lastOpenFiles": [
+    "PICO CTF/Actividad 8 - picoCTF Web 1/06-Client-side-again.md",
+    "PICO CTF/Actividad 8 - picoCTF Web 1/02-where are the robots.md",
+    "PICO CTF/Actividad 8 - picoCTF Web 1/05-picobrowser.md",
+    "PICO CTF/Actividad 8 - picoCTF Web 1/03-logon.md",
+    "PICO CTF/Actividad 8 - picoCTF Web 1/04-dont-use-client-side.md",
+    "PICO CTF/Actividad 6 - General Skills 3/04-convertme.py.md",
+    "PICO CTF/Actividad 6 - General Skills 3/03-Codebook.md",
+    "PICO CTF/Actividad 6 - General Skills 3/02-runme.py.md",
+    "PICO CTF/Actividad 6 - General Skills 3/01-Super SSH.md",
+    "PICO CTF/Actividad 8 - picoCTF Web 1/01-Insp3ct0r.md",
+    "PICO CTF/Actividad 6 - General Skills 3/10-Serpentine.md",
+    "PICO CTF/Tarea 1 - General Skills/09-binhexa.md",
+    "PICO CTF/Actividad 8 - picoCTF Web 1",
     "PICO CTF/Tarea 1 - General Skills/01-permissions.md",
     "PICO CTF/Tarea 1 - General Skills/02-chrono.md",
     "PICO CTF/Tarea 1 - General Skills/03-special.md",
@@ -194,24 +207,12 @@
     "PICO CTF/Tarea 1 - General Skills/07-collaborative development.md",
     "PICO CTF/Tarea 1 - General Skills/08-binary search.md",
     "PICO CTF/Tarea 1 - General Skills/10-ASCII Numbers.md",
-    "PICO CTF/Tarea 1 - General Skills/09-binhexa.md",
-    "PICO CTF/Actividad 6 - General Skills 3/04-convertme.py.md",
-    "PICO CTF/Actividad 6 - General Skills 3/03-Codebook.md",
-    "PICO CTF/Actividad 6 - General Skills 3/02-runme.py.md",
     "PICO CTF/Actividad 6 - General Skills 3/08-PW Crack 2.md",
-    "PICO CTF/Actividad 6 - General Skills 3/10-Serpentine.md",
     "PICO CTF/Actividad 6 - General Skills 3/07-PW Crack 1.md",
     "PICO CTF/Actividad 6 - General Skills 3/06-fixme2.py.md",
     "PICO CTF/Actividad 6 - General Skills 3/05-fixme1.py.md",
-    "PICO CTF/Actividad 6 - General Skills 3/01-Super SSH.md",
     "PICO CTF/Tarea 1 - General Skills",
     "PICO CTF/Actividad 6 - General Skills 3/09-PW Crack 3.md",
-    "PICO CTF/Actividad 4 - General Skills 1/01-lets-warm-up.md",
-    "PICO CTF/Actividad 4 - General Skills 1/02-2Warm.md",
-    "PICO CTF/Actividad 4 - General Skills 1/03-Warmed Up.md",
-    "PICO CTF/Actividad 5 - General Skills 2/10-First Find.md",
-    "PICO CTF/Actividad 5 - General Skills 2/01-Based.md",
-    "PICO CTF/Actividad 5 - General Skills 2/02-strings it.md",
     "PICO CTF/Actividad 6 - General Skills 3",
     "PICO CTF/Actividad 5 - General Skills 2",
     "PICO CTF/Actividad 4 - General Skills 1",
