@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/Tarea 2 - Web/Includes.md",
+                "file": "PICO CTF/Actividad 11 - picoCTF Web - Parte 4/Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Includes"
+              "title": "Trickster"
             }
           }
         ]
@@ -170,6 +170,12 @@
   },
   "active": "ba9f8c62f6419666",
   "lastOpenFiles": [
+    "PICO CTF/Actividad 11 - picoCTF Web - Parte 4/SOAP.md",
+    "PICO CTF/Actividad 11 - picoCTF Web - Parte 4/Most Cookies.md",
+    "PICO CTF/Actividad 11 - picoCTF Web - Parte 4/MatchTheRegex.md",
+    "PICO CTF/Actividad 11 - picoCTF Web - Parte 4/Trickster.md",
+    "PICO CTF/Tarea 2 - Web/Includes.md",
+    "PICO CTF/Actividad 11 - picoCTF Web - Parte 4",
     "PICO CTF/Tarea 2 - Web/Inspect HTML.md",
     "PICO CTF/Tarea 2 - Web/IntroToBurp.md",
     "PICO CTF/Tarea 2 - Web/Local Authority.md",
@@ -179,7 +185,6 @@
     "PICO CTF/Tarea 2 - Web/SQLiLite.md",
     "PICO CTF/Tarea 2 - Web/Unminify.md",
     "PICO CTF/Tarea 2 - Web/WebDecode.md",
-    "PICO CTF/Tarea 2 - Web/Includes.md",
     "PICO CTF/Actividad 10 - picoCTF Web 3/More SqLi.md",
     "PICO CTF/Actividad 10 - picoCTF Web 3/JaWT Scratchpad.md",
     "PICO CTF/Actividad 10 - picoCTF Web 3/Irish-Name-Repo 1.md",
@@ -196,15 +201,10 @@
     "PICO CTF/Actividad 8 - picoCTF Web 1/03-logon.md",
     "PICO CTF/Actividad 8 - picoCTF Web 1/04-dont-use-client-side.md",
     "PICO CTF/Actividad 6 - General Skills 3/04-convertme.py.md",
-    "PICO CTF/Actividad 6 - General Skills 3/03-Codebook.md",
-    "PICO CTF/Actividad 6 - General Skills 3/02-runme.py.md",
-    "PICO CTF/Actividad 6 - General Skills 3/01-Super SSH.md",
-    "PICO CTF/Actividad 8 - picoCTF Web 1/01-Insp3ct0r.md",
     "PICO CTF/Actividad 8 - picoCTF Web 1",
     "PICO CTF/Tarea 1 - General Skills",
     "PICO CTF/Actividad 6 - General Skills 3",
     "PICO CTF/Actividad 5 - General Skills 2",
-    "PICO CTF/Actividad 4 - General Skills 1",
-    "Sin nombre"
+    "PICO CTF/Actividad 4 - General Skills 1"
   ]
 }
