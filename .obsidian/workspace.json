@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/Primer Examen Parcial - Parte 2 - Web/n0s4n1ty 1.md",
+                "file": "PICO CTF/Actividad 13 - picoCTF - Forensic 2/WhitePages.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n0s4n1ty 1"
+              "title": "WhitePages"
             }
           }
         ]
@@ -170,12 +170,18 @@
   },
   "active": "ba9f8c62f6419666",
   "lastOpenFiles": [
+    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/shark on wire 2.md",
+    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/m00nwalk.md",
+    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/like1000.md",
+    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/c0rrupt.md",
+    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/WhitePages.md",
+    "PICO CTF/Primer Examen Parcial - Parte 2 - Web/n0s4n1ty 1.md",
+    "PICO CTF/Actividad 13 - picoCTF - Forensic 2",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/Java Code Analysis.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/WebSockFish.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/SSTI2.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/SSTI1.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/SQL Direct.md",
-    "PICO CTF/Primer Examen Parcial - Parte 2 - Web/n0s4n1ty 1.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/head-dump.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/findme.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/Cookie Monster Secret Recipe.md",
@@ -193,18 +199,12 @@
     "PICO CTF/Actividad 12 - picoCTF - Forensic 1/What Lies Within.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web",
     "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills",
-    "PICO CTF/Actividad 12 - picoCTF - Forensic 1/So Meta.md",
-    "PICO CTF/Actividad 12 - picoCTF - Forensic 1/shark on wire 1.md",
-    "PICO CTF/Actividad 12 - picoCTF - Forensic 1/extensions.md",
-    "PICO CTF/Actividad 12 - picoCTF - Forensic 1/Glory of the Garden.md",
-    "PICO CTF/Actividad 11 - picoCTF Web 4/Trickster.md",
     "PICO CTF/Actividad 12 - picoCTF - Forensic 1",
     "PICO CTF/Actividad 11 - picoCTF Web 4",
     "PICO CTF/Tarea 2 - Web",
     "PICO CTF/Actividad 10 - picoCTF Web 3",
     "PICO CTF/Actividad 9 - picoCTF Web 2/Sin nombre",
     "PICO CTF/Actividad 9 - picoCTF Web 2",
-    "PICO CTF/Actividad 8 - picoCTF Web 1",
-    "PICO CTF/Tarea 1 - General Skills"
+    "PICO CTF/Actividad 8 - picoCTF Web 1"
   ]
 }
