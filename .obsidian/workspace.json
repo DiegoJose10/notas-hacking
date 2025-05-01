@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/Actividad 13 - picoCTF - Forensic 2/shark on wire 2.md",
+                "file": "PICO CTF/Actividad 14 - picoCTF - Forensic 3/WebNet1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shark on wire 2"
+              "title": "WebNet1"
             }
           }
         ],
@@ -185,10 +185,16 @@
   },
   "active": "feb7fb48df9036bb",
   "lastOpenFiles": [
-    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/WhitePages.md",
+    "PICO CTF/Actividad 14 - picoCTF - Forensic 3/WebNet0.md",
+    "PICO CTF/Actividad 14 - picoCTF - Forensic 3/tunn3l v1s10n.md",
+    "PICO CTF/Actividad 14 - picoCTF - Forensic 3/Matryoshka doll.md",
+    "PICO CTF/Actividad 14 - picoCTF - Forensic 3/MacroHard WeakEdge.md",
+    "PICO CTF/Actividad 14 - picoCTF - Forensic 3/WebNet1.md",
     "PICO CTF/Actividad 13 - picoCTF - Forensic 2/shark on wire 2.md",
-    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/m00nwalk.md",
+    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/WhitePages.md",
     "PICO CTF/Actividad 13 - picoCTF - Forensic 2/like1000.md",
+    "PICO CTF/Actividad 14 - picoCTF - Forensic 3",
+    "PICO CTF/Actividad 13 - picoCTF - Forensic 2/m00nwalk.md",
     "PICO CTF/Actividad 13 - picoCTF - Forensic 2/c0rrupt.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web/n0s4n1ty 1.md",
     "PICO CTF/Actividad 13 - picoCTF - Forensic 2",
@@ -207,11 +213,6 @@
     "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills/flag_shop.md",
     "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills/dont-you-love-banners.md",
     "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills/Rust fixme 2.md",
-    "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills/Rust fixme 1.md",
-    "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills/FANTASY CTF.md",
-    "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills/HashingJobApp.md",
-    "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills/Python Wrangling.md",
-    "PICO CTF/Actividad 12 - picoCTF - Forensic 1/What Lies Within.md",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web",
     "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills",
     "PICO CTF/Actividad 12 - picoCTF - Forensic 1",
@@ -219,7 +220,6 @@
     "PICO CTF/Tarea 2 - Web",
     "PICO CTF/Actividad 10 - picoCTF Web 3",
     "PICO CTF/Actividad 9 - picoCTF Web 2/Sin nombre",
-    "PICO CTF/Actividad 9 - picoCTF Web 2",
-    "PICO CTF/Actividad 8 - picoCTF Web 1"
+    "PICO CTF/Actividad 9 - picoCTF Web 2"
   ]
 }
