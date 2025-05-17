@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/13.md",
+                "file": "PICO CTF/Actividad 17 - Retos Crypto 2/rsa pop quiz (exp.py).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13"
+              "title": "rsa pop quiz (exp.py)"
             }
           }
         ],
@@ -185,6 +185,9 @@
   },
   "active": "feb7fb48df9036bb",
   "lastOpenFiles": [
+    "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/13.md",
+    "PICO CTF/Actividad 17 - Retos Crypto 2/rsa pop quiz (exp.py).md",
+    "PICO CTF/Actividad 17 - Retos Crypto 2",
     "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/Cesar.md",
     "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/Easy 1.md",
     "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/interencdec.md",
@@ -192,7 +195,6 @@
     "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/Tapping.md",
     "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/The numbers.md",
     "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/waves over lambda.md",
-    "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/13.md",
     "PICO CTF/Tarea 3 - Forensic/CanYouSee.md",
     "PICO CTF/Actividad 15 - picoCTF - Forensic 4/Milkslap.md",
     "PICO CTF/Actividad 15 - picoCTF - Forensic 4/Operation Orchid.md",
@@ -211,7 +213,6 @@
     "PICO CTF/Tarea 3 - Forensic/St3g0.md",
     "PICO CTF/Actividad 14 - picoCTF - Forensic 3/MacroHard WeakEdge.md",
     "PICO CTF/Actividad 14 - picoCTF - Forensic 3/Matryoshka doll.md",
-    "PICO CTF/Actividad 14 - picoCTF - Forensic 3/tunn3l v1s10n.md",
     "PICO CTF/Tarea 3 - Forensic",
     "PICO CTF/Actividad 15 - picoCTF - Forensic 4",
     "PICO CTF/Actividad 14 - picoCTF - Forensic 3",
@@ -219,7 +220,6 @@
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web",
     "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills",
     "PICO CTF/Actividad 12 - picoCTF - Forensic 1",
-    "PICO CTF/Actividad 11 - picoCTF Web 4",
-    "PICO CTF/Tarea 2 - Web"
+    "PICO CTF/Actividad 11 - picoCTF Web 4"
   ]
 }
