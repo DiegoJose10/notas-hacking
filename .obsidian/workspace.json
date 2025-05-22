@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PICO CTF/Actividad 17 - Retos Crypto 2/rsa pop quiz (exp.py).md",
+                "file": "PICO CTF/Actividad 18 - Retos Crypto 3/Mind your Ps and Qs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rsa pop quiz (exp.py)"
+              "title": "Mind your Ps and Qs"
+            }
+          },
+          {
+            "id": "8f635caf970a6af6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PICO CTF/Actividad 18 - Retos Crypto 3/b00tl3gRSA2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "b00tl3gRSA2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +197,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "feb7fb48df9036bb",
+  "active": "8f635caf970a6af6",
   "lastOpenFiles": [
-    "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/13.md",
+    "PICO CTF/Actividad 18 - Retos Crypto 3/b00tl3gRSA3.md",
+    "PICO CTF/Actividad 18 - Retos Crypto 3/Mind your Ps and Qs.md",
+    "PICO CTF/Actividad 18 - Retos Crypto 3/Mini RSA.md",
+    "PICO CTF/Actividad 18 - Retos Crypto 3/b00tl3gRSA2.md",
     "PICO CTF/Actividad 17 - Retos Crypto 2/rsa pop quiz (exp.py).md",
+    "PICO CTF/Actividad 18 - Retos Crypto 3",
+    "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/13.md",
     "PICO CTF/Actividad 17 - Retos Crypto 2",
     "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/Cesar.md",
     "PICO CTF/Actividad 16 - picoCTF Crypto - Parte 1/Easy 1.md",
@@ -209,17 +228,12 @@
     "PICO CTF/Tarea 3 - Forensic/RED.md",
     "PICO CTF/Tarea 3 - Forensic/Redaction gone wrong.md",
     "PICO CTF/Tarea 3 - Forensic/Scan Surprise.md",
-    "PICO CTF/Tarea 3 - Forensic/Secret of the Polyglot.md",
-    "PICO CTF/Tarea 3 - Forensic/St3g0.md",
-    "PICO CTF/Actividad 14 - picoCTF - Forensic 3/MacroHard WeakEdge.md",
-    "PICO CTF/Actividad 14 - picoCTF - Forensic 3/Matryoshka doll.md",
     "PICO CTF/Tarea 3 - Forensic",
     "PICO CTF/Actividad 15 - picoCTF - Forensic 4",
     "PICO CTF/Actividad 14 - picoCTF - Forensic 3",
     "PICO CTF/Actividad 13 - picoCTF - Forensic 2",
     "PICO CTF/Primer Examen Parcial - Parte 2 - Web",
     "PICO CTF/Primer Examen Parcial - Parte 1 - General Skills",
-    "PICO CTF/Actividad 12 - picoCTF - Forensic 1",
-    "PICO CTF/Actividad 11 - picoCTF Web 4"
+    "PICO CTF/Actividad 12 - picoCTF - Forensic 1"
   ]
 }
